@@ -1,0 +1,14 @@
+/coronavirus_2021q1_all.csv
+/covid_march21_userdata
+/create_dataset.py
+/MARCH_21
+/model_reddit/data
+/model_reddit/models
+/model_reddit/docs
+/pushshify.py
+/r_coronavirus_users_comments_march21.csv
+/venv36
+/emissions.csv
+model_reddit/emissions.csv
+model_reddit/src/__pycache__/ImgModel.cpython-36.pyc
+model_reddit/src/__pycache__/ModelClass.cpython-36.pyc
